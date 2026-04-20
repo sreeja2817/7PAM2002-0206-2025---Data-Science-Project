@@ -2,9 +2,9 @@
 A Comparative Study of Machine Learning and Deep Learning Models for Multivariate Silver Price Prediction
 
 # 📌 Overview
-This project focuses on **Multivariate Time Series Forecasting of Silver Prices using Machine Learning and Deep Learning techniques**.
+This project focuses on Multivariate Time Series Forecasting of Silver Prices using Machine Learning and Deep Learning techniques.
 
-# The study uses multiple financial indicators such as **Gold, Crude Oil, USD Index, and S&P 500** to model the complex and non-linear behaviour of silver prices. A comparative analysis is performed between traditional machine learning models and advanced deep learning models to evaluate their effectiveness in capturing temporal dependencies.
+The study uses multiple financial indicators such as Gold, Crude Oil, USD Index, and S&P 500 to model the complex and non-linear behaviour of silver prices. A comparative analysis is performed between traditional machine learning models and advanced deep learning models to evaluate their effectiveness in capturing temporal dependencies.
 ---
 
 ## 📊 Datasets
